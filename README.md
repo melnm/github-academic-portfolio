@@ -3,7 +3,9 @@
 
 ##  [https://bit.ly/GitHubWrksp](https://bit.ly/GitHubWrksp)
 
-This repository (aka. a repo; a central storage for your project's files, folders, and version history) has all the files and instructions to build a basic academic portfolio website with a home page, a teaching page, a research page, and a link to a CV [PDF].
+This repository (aka. a repo; a central storage for your project's files, folders, and version history) has all the files and instructions to build a basic academic portfolio website with a home page, a teaching page, a research page, and a link to a CV [PDF]. 
+
+>The simple web template is from [w3schools.com](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_example_website), which is a great resource for learning HTML, CSS, and JavaScript, and the branding is based on the [GitHub Brand Toolkit](https://brand.github.com/foundations/color). 
 
 >I recommend using Google Chrome for this exercise so you can easily use the Developer tools like "View Source" and "Inspect Elements".
 
